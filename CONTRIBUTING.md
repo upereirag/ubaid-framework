@@ -27,7 +27,7 @@ Use the form for substantive contributions:
 - Mathematical formalization proposals
 - Adjacent research connecting UBAID to existing literature
 
-The form is available at: *(form link to be inserted upon repository deployment)*
+The form is available at: [forms.gle/cgTKUg3bLz7pPvgw8](https://forms.gle/cgTKUg3bLz7pPvgw8)
 
 All contributions submitted through the form are subject to the [Contributor License Agreement](CLA.md).
 
@@ -50,6 +50,7 @@ The framework benefits most from contributions that:
 When opening an issue, please use one of the following formats:
 
 **Inconsistency Report**
+
 ```
 Section affected:
 Inconsistency observed:
@@ -58,6 +59,7 @@ Impact on framework integrity:
 ```
 
 **Conceptual Concern**
+
 ```
 Framework element:
 Concern:
@@ -66,6 +68,7 @@ Proposed extension or modification:
 ```
 
 **Use Case Proposal**
+
 ```
 Real or hypothetical incident:
 Framework elements applied:

@@ -16,13 +16,13 @@ The framework is computationally agnostic, jurisdictionally neutral, and organiz
 
 ## What This Repository Contains
 
-| Item | Description | Status |
-|---|---|---|
-| [Whitepaper v0.2 (PDF)](docs/whitepapers/UBAID_Framework_Whitepaper_v0.2_EN.pdf) | Foundational document — taxonomy, orbital model, observable indicators, governance | Draft for community review |
-| [Roadmap](docs/research/ROADMAP.md) | Versioning plan and derived publications | v0.2 published, v0.3 in scope |
-| [Open Research Questions](docs/research/OPEN_QUESTIONS.md) | Specific topics inviting community development | Active call |
-| [Contribution Guidelines](CONTRIBUTING.md) | How to engage with the framework | Active |
-| [Changelog](CHANGELOG.md) | Version history | Maintained |
+| Item                                                                             | Description                                                                        | Status                        |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------- |
+| [Whitepaper v0.2 (PDF)](docs/whitepapers/UBAID_Framework_Whitepaper_v0.2_EN.pdf) | Foundational document — taxonomy, orbital model, observable indicators, governance | Draft for community review    |
+| [Roadmap](docs/research/ROADMAP.md)                                              | Versioning plan and derived publications                                           | v0.2 published, v0.3 in scope |
+| [Open Research Questions](docs/research/OPEN_QUESTIONS.md)                       | Specific topics inviting community development                                     | Active call                   |
+| [Contribution Guidelines](CONTRIBUTING.md)                                       | How to engage with the framework                                                   | Active                        |
+| [Changelog](CHANGELOG.md)                                                        | Version history                                                                    | Maintained                    |
 
 ---
 
@@ -68,7 +68,7 @@ Contributions are welcomed in two structured channels:
 
 **GitHub Issues** — for technical feedback, inconsistencies, specific corrections, and proposed extensions tied to existing framework elements. See [CONTRIBUTING.md](CONTRIBUTING.md) for issue templates and conventions.
 
-**Structured Contribution Form** — for substantive submissions: critical reviews, new use cases, proposed satellite vectors, documented Black Hole observations, formal mathematical extensions. The form is available [here (form link to be inserted upon repository deployment)](#). All contributions submitted through the form are subject to the Contributor License Agreement.
+**Structured Contribution Form** — for substantive submissions: critical reviews, new use cases, proposed satellite vectors, documented Black Hole observations, formal mathematical extensions. The form is available [here https://forms.gle/cgTKUg3bLz7pPvgw8](#). All contributions submitted through the form are subject to the Contributor License Agreement.
 
 All contributions, regardless of channel, are subject to the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines and the [Contributor License Agreement](CLA.md).
 
@@ -90,21 +90,21 @@ The name **"UBAID Framework"** is reserved and will be registered as a trademark
 
 If you reference this framework in academic or professional work, please cite as:
 
-> Pereira, G. U. (2026). *UBAID Framework v0.2 — Uncharted Boundaries of Artificial Intelligence Divergence: A Taxonomic and Operational Framework for Attribution of Responsibility*. GitHub. https://github.com/upereirag/ubaid-framework
+> Pereira, G. U. (2026). _UBAID Framework v0.2 — Uncharted Boundaries of Artificial Intelligence Divergence: A Taxonomic and Operational Framework for Attribution of Responsibility_. GitHub. https://github.com/upereirag/ubaid-framework
 
 ---
 
 ## Status and Roadmap
 
-| Version | Scope | Status |
-|---|---|---|
-| v0.1 | Foundational taxonomy | Published |
-| **v0.2** | **Observable indicators** | **Current — Draft for community review** |
-| Block D.1 | Vector recognition for Layer 1 automation | In development |
-| v0.3 | Entity Threshold detection methodology | Next milestone |
-| v0.4 | Legal framework alignment (GDPR, ISO 27001, EU AI Act) | Planned |
-| Software | Reference implementation specification | Planned |
-| v1.0 | Peer review submission | Target |
+| Version   | Scope                                                  | Status                                   |
+| --------- | ------------------------------------------------------ | ---------------------------------------- |
+| v0.1      | Foundational taxonomy                                  | Published                                |
+| **v0.2**  | **Observable indicators**                              | **Current — Draft for community review** |
+| Block D.1 | Vector recognition for Layer 1 automation              | In development                           |
+| v0.3      | Entity Threshold detection methodology                 | Next milestone                           |
+| v0.4      | Legal framework alignment (GDPR, ISO 27001, EU AI Act) | Planned                                  |
+| Software  | Reference implementation specification                 | Planned                                  |
+| v1.0      | Peer review submission                                 | Target                                   |
 
 Derived publications, to be developed with community support: Purple Team as Institutional Delegate, Transgovernmental Cooperation Model, The Involuntary Catman.
 
@@ -118,4 +118,4 @@ For framework correspondence, commercial licensing inquiries, and structured col
 
 ---
 
-*"The UBAID Framework is not a prediction of a future disruption. It is a description of a present state that existing instruments are inadequate to address."*
+_"The UBAID Framework is not a prediction of a future disruption. It is a description of a present state that existing instruments are inadequate to address."_
