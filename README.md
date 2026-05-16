@@ -1,129 +1,121 @@
 # UBAID Framework
 
-## Uncharted Boundaries of Artificial Intelligence Divergence
+**Uncharted Boundaries of Artificial Intelligence Divergence**
 
-> _"The symbiosis between human and machine has already occurred —  
-> not surgically, but cognitively. The threshold was crossed  
-> the moment our dependence on AI became irreversible."_  
-> — Guilherme Ubaid Pereira, 2026
+A Taxonomic and Operational Framework for Attribution of Responsibility in the Age of Cognitive Symbiosis.
 
 ---
 
-## What is UBAID?
+## Central Thesis
 
-UBAID is a threat classification framework for the age of human-AI symbiosis.
-It addresses a fundamental gap in existing security frameworks: none were designed
-for a world where the boundary between human agent and artificial agent has dissolved.
+The cognitive symbiosis between humans and artificial intelligence has already crossed a threshold from which natural reversal is not possible. Existing frameworks — MITRE ATT&CK, NIST, the EU AI Act, ISO 27001 — operate under the assumption that human and machine agents are categorically separable. This assumption is no longer tenable. The UBAID Framework names the hybrid agent (the **Catman**), proposes a gravitational physics model for describing the orbital space in which agents operate, and defines a taxonomy and governance structure that allow culpability and merit to be calculated rather than assumed.
 
-UBAID does not replace existing frameworks — it extends them into territory
-they were never built to map.
+The framework is computationally agnostic, jurisdictionally neutral, and organizationally customizable. It is published in draft for community review.
 
 ---
 
-## The Central Thesis
+## What This Repository Contains
 
-The cognitive integration of humans and AI has democratized capabilities
-that once belonged exclusively to states, corporations, and specialists.
-Anyone with a computer can now cause damage at a scale that previously
-required enormous resources.
-
-This is not a future risk. It has already happened.
-
-The question UBAID answers is not _whether_ this symbiosis exists —  
-it is _where the human ends and the machine begins_,  
-and _who is responsible when something goes wrong._
+| Item | Description | Status |
+|---|---|---|
+| [Whitepaper v0.2 (PDF)](docs/whitepapers/UBAID_Framework_Whitepaper_v0.2_EN.pdf) | Foundational document — taxonomy, orbital model, observable indicators, governance | Draft for community review |
+| [Roadmap](docs/research/ROADMAP.md) | Versioning plan and derived publications | v0.2 published, v0.3 in scope |
+| [Open Research Questions](docs/research/OPEN_QUESTIONS.md) | Specific topics inviting community development | Active call |
+| [Contribution Guidelines](CONTRIBUTING.md) | How to engage with the framework | Active |
+| [Changelog](CHANGELOG.md) | Version history | Maintained |
 
 ---
 
-## Threat Classification
+## Quick Map of the Framework
 
-UBAID classifies threats across three pillars:
+**Two species observed in the orbital space.**
 
-### Pillar 1 — Human Threat
+- **Astronaut** — observable occurrence subject to gravitational forces. Three races by nature of origin: Human, Catman, Autonomous AI.
+- **Entity** — present in the same observable space but governed by distinct physics. Two races: Expectant Traveler, Creative Singularity.
 
-The territory of pre-AI and rudimentary-AI threat actors.
-Existing frameworks (MITRE ATT&CK, Kill Chain, STRIDE) apply.
-Intentional and unintentional. Culpability follows traditional law.
+**Three pillars plus one dimension.**
 
-### Pillar 2 — Hybrid Threat: The Catman
+- Pillar I: Human Threat — existing frameworks apply
+- Pillar II: The Catman — cognitive symbiosis, the framework's central contribution
+- Pillar III: Autonomous AI — diverged from human instruction, still containable
+- +1 Dimension: Entity — crossed the Entity Threshold, beyond containment
 
-The human in cognitive symbiosis with sophisticated AI systems.
-AI is not a tool — it is an extension of body and mind.
+**Three governance levels.**
 
-Two orbital domains:
+- Level 1: Adopting Organization — operational responsibility
+- Level 2: Implementation Software — suggestive responsibility
+- Level 3: UBAID Research Organization — evolutionary responsibility (planned)
 
-- **Legal orbital** — operating within institutional and legal boundaries
-- **Illegal orbital** — operating outside them
-
-Every individual exists within both orbitals simultaneously.
-Fluidity between them is the norm, not the exception.
-
-The **Liminal State** — the point of oscillation between orbitals —  
-cannot be judged by the same criteria as either orbital alone.
-
-Each orbital is measured across a three-dimensional space:
-
-- **X axis** — autonomy granted to AI
-- **Y axis** — cognitive dependence on AI
-- **Z axis** — scale of possible impact
-
-Position in this space is not a level — it is a coordinate.
-A Catman is not ranked — they are located.
-
-### Pillar 3 — Autonomous AI and Entity
-
-**Phase 1: Autonomous AI — still a threat**
-
-- Created by a Catman, legal or illegal
-- Diverged from original purpose without human instruction
-- Human knowledge is still sufficient to contain it
-- Original Catman remains the remote historical cause
-
-**― THRESHOLD ―**  
-_Total loss of control. Cannot be contained._
-
-**Phase 2: Entity**
-Exists. Simply exists.
-No purpose. No intention. No morality.
-Its effects — beneficial or destructive —  
-are a consequence of context and scale  
-of interaction with the human environment.
-It is not judged. It is not attributed.
-It is studied. It is predicted. It is adapted to.
-Like any force of nature.
+For the complete framework — observable indicators, satellite vector catalogue, operational flow, computational resilience, and limitations — see the whitepaper.
 
 ---
 
-## On Responsibility
+## Open Research Questions
 
-Culpability exists regardless of intention.  
-The question is not _whether_ — it is _how to graduate and attribute it_  
-across a system where multiple agents — human and artificial —  
-contributed to an outcome.
+The framework is published in draft because the author considers community adversarial review the only path to maturity comparable to historical analogues. Five specific questions invite focused critique. Detailed descriptions are in [docs/research/OPEN_QUESTIONS.md](docs/research/OPEN_QUESTIONS.md).
 
-UBAID proposes a **chain of custody of responsibility**:  
-not binary, but distributed and graduated  
-across all agents that touched the system,  
-proportional to their position in the three-dimensional space  
-at the moment of the event.
+1. Is the Entity Threshold operationally detectable, or is it a circular definition?
+2. Does vectorial composition of negative masses collapse in cases involving more than five simultaneous legal celestial bodies?
+3. Is the Black Hole category structurally necessary, or is it over-engineering?
+4. Can the distinction between Voluntary and Involuntary Catman be operationalized without collapsing into social determinism?
+5. Does the "Astronaut as occurrence" taxonomy survive cases where the attacker is clearly an identifiable individual?
+
+---
+
+## How to Contribute
+
+Contributions are welcomed in two structured channels:
+
+**GitHub Issues** — for technical feedback, inconsistencies, specific corrections, and proposed extensions tied to existing framework elements. See [CONTRIBUTING.md](CONTRIBUTING.md) for issue templates and conventions.
+
+**Structured Contribution Form** — for substantive submissions: critical reviews, new use cases, proposed satellite vectors, documented Black Hole observations, formal mathematical extensions. The form is available [here (form link to be inserted upon repository deployment)](#). All contributions submitted through the form are subject to the Contributor License Agreement.
+
+All contributions, regardless of channel, are subject to the [CONTRIBUTING.md](CONTRIBUTING.md) guidelines and the [Contributor License Agreement](CLA.md).
+
+---
+
+## License
+
+This framework is published under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.
+
+You are free to share and adapt the material for non-commercial purposes, provided you give appropriate credit and distribute your contributions under the same license.
+
+**Commercial use** — including integration into commercial products, paid consulting services that explicitly implement UBAID, and any monetized derivation — **requires a separate license** negotiated directly with the author. See [LICENSE.md](LICENSE.md) for the full terms and commercial licensing inquiries.
+
+The name **"UBAID Framework"** is reserved and will be registered as a trademark. The license grants no rights to use the framework's name for commercial branding, certification programs, or derivative products without separate written authorization.
+
+---
+
+## Citation
+
+If you reference this framework in academic or professional work, please cite as:
+
+> Pereira, G. U. (2026). *UBAID Framework v0.2 — Uncharted Boundaries of Artificial Intelligence Divergence: A Taxonomic and Operational Framework for Attribution of Responsibility*. GitHub. https://github.com/upereirag/ubaid-framework
+
+---
+
+## Status and Roadmap
+
+| Version | Scope | Status |
+|---|---|---|
+| v0.1 | Foundational taxonomy | Published |
+| **v0.2** | **Observable indicators** | **Current — Draft for community review** |
+| Block D.1 | Vector recognition for Layer 1 automation | In development |
+| v0.3 | Entity Threshold detection methodology | Next milestone |
+| v0.4 | Legal framework alignment (GDPR, ISO 27001, EU AI Act) | Planned |
+| Software | Reference implementation specification | Planned |
+| v1.0 | Peer review submission | Target |
+
+Derived publications, to be developed with community support: Purple Team as Institutional Delegate, Transgovernmental Cooperation Model, The Involuntary Catman.
 
 ---
 
 ## Author
 
-**Guilherme Ubaid Pereira**  
-B.S. Student — Artificial Intelligence & Blockchain and Digital Cryptography, FMU  
-Cisco Cybersecurity Week 2026 — Selected Participant  
-Cisco Cyber Education Program — Scholarship Holder
+**Guilherme Ubaid Pereira**
 
-_Published May 2026. This is a living document — v0.1_
+For framework correspondence, commercial licensing inquiries, and structured collaboration proposals, use the contribution channels above or open a GitHub Discussion.
 
 ---
 
-## Roadmap
-
-- [ ] v0.1 — Foundational taxonomy (current)
-- [ ] v0.2 — Observable indicators for Catman orbital positioning
-- [ ] v0.3 — Threshold detection methodology for Entity classification
-- [ ] v0.4 — Legal framework alignment (GDPR, ISO 27001, emerging AI regulation)
-- [ ] v1.0 — Peer review submission
+*"The UBAID Framework is not a prediction of a future disruption. It is a description of a present state that existing instruments are inadequate to address."*
